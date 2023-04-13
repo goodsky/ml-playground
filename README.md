@@ -25,6 +25,7 @@ I don't use Python enough to remember this off the top of my head. Here's a remi
 - Pandas
 - Scipy
 - scikit-learn
+- tensorflow
 
 ## Jupyter
 
